@@ -1,5 +1,5 @@
 # Hello welcome to my world
 
-'''javascript
+```javascript
 console.log("Hello World");
-'''
+```
